@@ -1,5 +1,5 @@
 # Target Practice
-This project came about as a fun way to merge something fun I was doing when taking breaks from coding and job searching (sling shot target practice) and merging it with my passion for software and interest in hardware.
+This project came about as a fun way to take something I was doing when taking breaks from coding and job searching (slingshot target practice) and merging it with my passion for software and interest in hardware.
 
 ## Getting started
 If you do not already have the Arduino IDE download and install it from here: https://www.arduino.cc/en/main/software
