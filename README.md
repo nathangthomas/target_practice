@@ -7,7 +7,11 @@ Next, you’ll need to `fork` the repo as your own. Once you have done that, cop
 
 ## Functionality
 #### Iteration One
-Iteration 1 uses a LCD screen and two simple circuits to track how many times a target as been hit or missed.
+Iteration 1 uses a LCD screen and two simple circuits to track how many times a target as been hit or missed and displays the total hits and shots taken.
+
+I hope to interface this with a mobile app that can track and chart progress over time. A future iteration could gamify this featuring a multiplayer mode and incorporating multi colored lights themed on hits vs misses.
+
+
 
 ![IMG_2567](https://user-images.githubusercontent.com/47466067/80937937-56d99e00-8d94-11ea-80c6-dffba23b1623.jpg)
 
