@@ -7,7 +7,7 @@ Next, you’ll need to `fork` the repo as your own. Once you have done that, cop
 
 ## Functionality
 #### Iteration One
-Iteration 1 uses a LCD screen and a simple circuit to track how many times a target as been hit or missed.
+Iteration 1 uses a LCD screen and two simple circuits to track how many times a target as been hit or missed.
 
 ![IMG_2567](https://user-images.githubusercontent.com/47466067/80937937-56d99e00-8d94-11ea-80c6-dffba23b1623.jpg)
 
