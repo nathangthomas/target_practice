@@ -16,3 +16,13 @@ I hope to interface this with a mobile app that can track and chart progress ove
 ![IMG_2567](https://user-images.githubusercontent.com/47466067/80937937-56d99e00-8d94-11ea-80c6-dffba23b1623.jpg)
 
 ![IMG_2566](https://user-images.githubusercontent.com/47466067/80937941-593bf800-8d94-11ea-9c6b-f306348e6f3d.jpg)
+
+#### Iteration Two
+Iteration 2 adds the following functionality:
+- Completes the functionality of counting missed shots
+- Upgrades trigger mechanisms for detecting hits and misses
+- Add a welcome message
+- Adds display of total hits and total shots
+- Adds white led to enable shooting after dark
+- Adds Green/Blue light display for indicating a hit
+- Adds Red light display for indicating a miss
