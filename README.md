@@ -26,3 +26,6 @@ Iteration 2 adds the following functionality:
 - Adds white led to enable shooting after dark
 - Adds Green/Blue light display for indicating a hit
 - Adds Red light display for indicating a miss
+
+#### Iteration Three
+- Iteration 3 begins the addition of a simple web application which will receive and display data from the Arduino to the user. You can view the repo [HERE](https://github.com/nathangthomas/target_practice_dashboard).
